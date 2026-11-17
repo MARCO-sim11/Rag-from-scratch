@@ -1,0 +1,14 @@
+# Deep Learning et embeddings
+numpy==1.26.4
+torch>=2.6
+transformers>=4.45,<5
+sentence-transformers>=3.0
+
+# LangChain
+langchain
+langchain-core
+langchain-huggingface
+langchain-chroma
+
+# Vector database
+chromadb
